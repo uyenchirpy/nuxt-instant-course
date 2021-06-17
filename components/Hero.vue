@@ -2,10 +2,9 @@
   <div>
     <div class="Hero container">
       <div class="text-container">
-        <h1 class="header">Find your style</h1>
+        <h1 class="header">Find your weapons</h1>
         <p class="snippet">
-          Lorem ipsum dolor sit amet, consec ipisicing elit. Iste iusto illum
-          quidem asperiores, cum nisi aperiam eius ipsa sapiente odit!
+          Find your weapon to kill anyone you like no matter who they are.
         </p>
         <button class="button btn">Start Looking</button>
       </div>
